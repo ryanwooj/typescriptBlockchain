@@ -1,0 +1,12 @@
+{
+  "name": "typescriptBlockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryanwooj/typescriptBlockchain",
+  "author": "Ryan Woo <devrwoo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
